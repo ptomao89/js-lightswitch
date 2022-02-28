@@ -1,3 +1,4 @@
+TEST
 # Intro to jQuery
 
 This exercise leverages clever CSS and jQuery to have a light switch toggle the "lights" on and off. The solution is provided as a guide -- don't peak!
